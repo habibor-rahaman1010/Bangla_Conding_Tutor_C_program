@@ -1,3 +1,4 @@
+// structure in c program...
 #include <stdio.h>
 #include <string.h>
 
